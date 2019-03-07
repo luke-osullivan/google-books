@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexrosenkranz/google-books.git"
+    "url": "git+https://github.com/luke-osullivan/google-books.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexrosenkranz/google-books/issues"
+    "url": "https://github.com/luke-osullivan/google-books/issues"
   },
-  "homepage": "https://github.com/alexrosenkranz/google-books#readme",
+  "homepage": "https://github.com/luke-osullivan/google-books#readme",
   "dependencies": {
     "concurrently": "^4.1.0",
     "express": "^4.16.4",
@@ -30,10 +30,5 @@
     "mongoose": "^5.4.17",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.10"
-  },
-  "devDependencies": {
-    "eslint": "^5.15.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0"
   }
 }
